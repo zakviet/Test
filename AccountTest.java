@@ -22,7 +22,7 @@ import junit.framework.TestCase;
  */
 
 /**
- * @author zhasan
+ * @author zhasan and sanjay
  *
  */
 public class AccountTest extends TestCase {
